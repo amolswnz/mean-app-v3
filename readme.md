@@ -1,4 +1,5 @@
-# MEAN Application v2
+# MEAN Application v3
+  with Angular UI Router
 
 ### To use this MEAN Walking Skeleton
 Step 1] `npm install`<br>
